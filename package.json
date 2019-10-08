@@ -1,0 +1,13 @@
+{
+  "repository": "https://github.com/tanxi2019/github.io",
+  "author": "tanxi<1832355298@qq.com>",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "dependencies": {
+    "element-ui": "^2.10.0",
+    "vue-router": "^3.0.7"
+  }
+}
