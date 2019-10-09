@@ -1,3 +1,9 @@
+--- 
+title: ajax封装
+date: 2017-12-28
+tags: 
+ - JavaScript
+---
 # ajax封装
 #### html
 ```html

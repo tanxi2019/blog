@@ -1,4 +1,10 @@
-# loacalStorage and sessionStorage
+--- 
+title: 缓存
+date: 2017-12-28
+tags: 
+ - JavaScript
+---
+# 缓存
 ```js
   window.onload = function(){
      var loacal = document.getElementById("local");

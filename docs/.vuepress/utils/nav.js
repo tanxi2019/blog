@@ -36,7 +36,7 @@ const jsSidebar = {
 
 const htmlSidebar = {
   title: 'html奇技',
-  collapsable: false,
+  collapsable: true,
   children: [
     '/html/',
     '/html/word.md',
