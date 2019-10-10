@@ -1,7 +1,13 @@
----
+--- 
 sidebar: auto
+title: javascript下
+date: 2017-12-28
+tags: 
+ - javascript上
+categories:
+  - javascript下
 ---
-# 你不知道的javascript中
+# 你不知道的javascript下
 
 ## 类型和语法
 ### 七种内置类型

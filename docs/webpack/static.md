@@ -1,4 +1,11 @@
-
+--- 
+title: 打包静态资源
+date: 2017-12-28
+tags: 
+ - webpack
+categories:
+  - webpack
+---
 # 打包静态资源
 
 ## 什么是loader？

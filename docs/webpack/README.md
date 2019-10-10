@@ -1,8 +1,16 @@
+--- 
+title: 说明
+date: 2017-12-28
+tags: 
+ - webpack
+categories:
+  - webpack
+---
 # 说明
 
 ## 版本和参考说明
 ::: tip 说明
-本篇博客由慕课网视频[从基础到实战手把手带你掌握新版Webpack4.0](https://coding.imooc.com/class/316.html)(**Dell-Lee**)阅读整理而来，观看视频请支持正版。
+本篇阅读整理而来，观支持正版。
 :::
 ::: warning 注意
 本篇博客 Webpack 版本是`4.0+`，请确保你安装了`Node.js`最新版本。

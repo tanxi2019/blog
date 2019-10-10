@@ -1,5 +1,11 @@
----
+--- 
 sidebar: auto
+title: Git
+date: 2017-12-28
+tags: 
+ - Git
+categories:
+  - Git
 ---
 # Git常见命令
 

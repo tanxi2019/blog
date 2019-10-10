@@ -1,6 +1,13 @@
----
+--- 
 sidebar: auto
+title: 面试题
+date: 2017-12-28
+tags: 
+ - 面试题
+categories:
+  - 面试题
 ---
+
 # 前端面试之道
 
 ## JavaScript基础知识面试题

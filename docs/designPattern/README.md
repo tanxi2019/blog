@@ -1,5 +1,11 @@
----
+--- 
 sidebar: auto
+title: 设计模式
+date: 2017-12-28
+tags: 
+ - 设计模式
+categories:
+  - 设计模式
 ---
 # JavaScript设计模式与开发实践
 ## 基础知识

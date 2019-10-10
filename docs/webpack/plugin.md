@@ -1,4 +1,11 @@
-
+--- 
+title: 编写自己的Plugin
+date: 2017-12-28
+tags: 
+ - webpack
+categories:
+  - webpack
+---
 # 编写自己的Plugin
 与`loader`一样，我们在使用 Webpack 的过程中，也经常使用`plugin`，那么我们学习如何编写自己的`plugin`是十分有必要的。
 ::: tip 场景

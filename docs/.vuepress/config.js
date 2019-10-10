@@ -32,20 +32,16 @@ module.exports = {
               text: '分类' // 默认 “分类”
           },
           tag: {
-              location: 4,     // 在导航栏菜单中所占的位置，默认3
-              text: 'Tag'      // 默认文案 “标签”
+              location: 3,     // 在导航栏菜单中所占的位置，默认3
+              text: '标签'      // 默认文案 “标签”
           }
       },
-      sidebarDepth: 2, // 侧边栏显示2级
-      algolia: {  // 搜索需要提交
-          apiKey: '<API_KEY>',
-          indexName: '<INDEX_NAME>'
-      },
+      // algolia: {  // 搜索需要提交
+      //     apiKey: '<API_KEY>',
+      //     indexName: '<INDEX_NAME>'
+      // },
       // 假如文档不是放在仓库的根目录下：
       docsDir: 'docs',
-      // 默认是 false, 设置为 true 来启用
-      // editLinks: true,
-      // editLinkText: '在 GitHub 上编辑此页',
       serviceWorker: {
           updatePopup: {
               message: "发现新内容可用.",
@@ -53,26 +49,8 @@ module.exports = {
           }
       },
     nav: [
-      { text: 'home',link: '/',icon:'reco-home'},
-      { text: 'view',link: '/view/',icon: 'reco-category'},
-      { text: 'book',icon:'reco-document', items: [
-          { text: 'JavaScript(上)', link: '/JavaScriptTop/'},
-          { text: 'JavaScript(中)', link: '/JavaScriptCenter/'},
-          { text: 'JavaScript(下)', link: '/JavaScriptDown/'},
-          { text: 'JavaScript设计模式', link: '/designPattern/'}
-        ]
-      },
-      { text: 'web',icon:'reco-api', items: [
-          { text: 'HTML', link: '/html/'},
-          { text: 'CSS',link: '/css/'},
-          { text: 'JavaScript', link: '/javascript/'},
-        ]},
-      { text: 'Vue.js',icon:'reco-v2ex', items: [
-        { text: 'Vue', link: '/vue/' }
-      ]},
-       { text: 'TimeLine', link: '/timeLine/', icon: 'reco-date' },
-      { text: 'Webpack', icon:'reco-gitlab',link: '/webpack/'},
-      { text: 'Git', icon:'reco-beian',link: '/git/'}
+      { text: '首页',link: '/',icon:'reco-home'},
+       { text: '时光轴', link: '/timeLine/', icon: 'reco-date' }
     ],
     sidebar: {
       '/css/': [cssSidebar],

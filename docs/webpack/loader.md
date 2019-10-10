@@ -1,4 +1,11 @@
-
+--- 
+title: 编写自己的Loader
+date: 2017-12-28
+tags: 
+ - webpack
+categories:
+  - webpack
+---
 # 编写自己的Loader
 在我们使用 Webpack 的过程中，我们使用了很多的`loader`，那么那些`loader`是哪里来的？我们能不能写自己的`loader`然后使用？
 答案当然是可以的，Webpack 为我们提供了一些`loader`的API，通过这些API我们能够编写出自己的`loader`并使用。
