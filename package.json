@@ -2,8 +2,9 @@
   "repository": "https://github.com/tanxi2019/github.io",
   "author": "tanxi<1832355298@qq.com>",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
+    "dev": "vuepress dev docs",
+    "start": "npm run dev",
+    "build": "vuepress build docs",
     "deploy": "bash deploy.sh"
   },
   "dependencies": {

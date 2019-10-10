@@ -3,6 +3,8 @@ title: 事件委托
 date: 2017-12-28
 tags: 
  - JavaScript
+categories:
+  - JavaScript
 ---
 # 事件委托
 

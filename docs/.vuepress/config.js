@@ -27,6 +27,10 @@ module.exports = {
       },
       // 博客设置
       blogConfig: {
+          category: {
+              location: 2, // 在导航栏菜单中所占的位置，默认2
+              text: '分类' // 默认 “分类”
+          },
           tag: {
               location: 4,     // 在导航栏菜单中所占的位置，默认3
               text: 'Tag'      // 默认文案 “标签”
@@ -68,7 +72,6 @@ module.exports = {
       ]},
        { text: 'TimeLine', link: '/timeLine/', icon: 'reco-date' },
       { text: 'Webpack', icon:'reco-gitlab',link: '/webpack/'},
-      { text: 'VuePress', icon:'reco-three',link: '/vuepress/'},
       { text: 'Git', icon:'reco-beian',link: '/git/'}
     ],
     sidebar: {

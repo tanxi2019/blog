@@ -3,6 +3,8 @@ title: 轮播图
 date: 2017-12-28
 tags: 
  - html
+categories:
+  - html
 ---
 # 轮播图
 ### html

@@ -3,6 +3,8 @@ title: 插入排序
 date: 2017-12-28
 tags: 
  - html
+categories:
+  - html
 ---
 # 插入排序
 ```js
