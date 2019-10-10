@@ -1,20 +1,20 @@
-
 const nav = require('./utils/nav.js');
 const {cssSidebar, webpackSidebar, jsSidebar,htmlSidebar} = nav;
 module.exports = {
   head: [  ['link', { rel: 'icon', href: 'icon.png' }],
-      ['meta', {name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no'}]
+           ['meta', {name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no'}]
   ],
   theme: 'reco',
   title: '云深不知处',
   author: 'TanXi',
-  description: '',
+  description: 'Welcome to my world, you won\'t be dissapointed ! ! !',
   base: '/',
   port: 8080,
   markdown: {
     lineNumbers: false
   },
   themeConfig: {
+    huawei: true,
     type: 'blog',
     lastUpdated: '最后更新时间',
     repo: 'https://github.com/tanxi2019/github.io',
@@ -84,5 +84,6 @@ module.exports = {
         '@components': '../.vuepress/components'
       }
     }
-  }
+  },
+   plugins: ['@vuepress/medium-zoom', 'flowchart']
 };
