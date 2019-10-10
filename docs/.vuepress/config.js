@@ -20,8 +20,10 @@ module.exports = {
     repo: 'https://github.com/tanxi2019/github.io',
     repoLabel: 'Github',
     valineConfig: {
-          appId: '...',// your appId
-          appKey: '...', // your appKey
+        appId: 'YcVQf6558L0z2tdqsys7E75a-gzGzoHsz',// your appId
+        appKey: 'y3DVEIJHNMaO1PTOF8DY2eJY', // your appKey
+        notify: true, // 邮件提醒!!!
+        visitor:true, //文章访问量
       },
       // 博客设置
       blogConfig: {
