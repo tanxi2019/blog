@@ -22,26 +22,18 @@ module.exports = {
     valineConfig: {
         appId: 'YcVQf6558L0z2tdqsys7E75a-gzGzoHsz',// your appId
         appKey: 'y3DVEIJHNMaO1PTOF8DY2eJY', // your appKey
-        notify: true, // 邮件提醒!!!
         visitor:true, //文章访问量
       },
       // 博客设置
       blogConfig: {
-          category: {
-              location: 2, // 在导航栏菜单中所占的位置，默认2
-              text: '分类' // 默认 “分类”
-          },
-          tag: {
-              location: 3,     // 在导航栏菜单中所占的位置，默认3
-              text: '标签'      // 默认文案 “标签”
-          }
+          category: { location: 2, text: '分类' }, // 默认 “分类”
+          tag: { location: 3, text: '标签'  }    // 默认文案 “标签”
       },
       // algolia: {  // 搜索需要提交
       //     apiKey: '<API_KEY>',
       //     indexName: '<INDEX_NAME>'
-      // },
-      // 假如文档不是放在仓库的根目录下：
-      docsDir: 'docs',
+      // }
+      docsDir: '/',
       serviceWorker: {
           updatePopup: {
               message: "发现新内容可用.",
@@ -50,7 +42,7 @@ module.exports = {
       },
     nav: [
       { text: '首页',link: '/',icon:'reco-home'},
-       { text: '时光轴', link: '/timeLine/', icon: 'reco-date' }
+      { text: '时光轴', link: '/timeLine/', icon: 'reco-date' },
     ],
     sidebar: {
       '/css/': [cssSidebar],
