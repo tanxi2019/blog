@@ -1,10 +1,10 @@
 --- 
-title: 插入排序
+title: 插件
 date: 2019/10/10
 tags: 
- - html
+ - pugins
 categories:
-  - html
+ - pugins
 ---
 # 插入排序
 ```js

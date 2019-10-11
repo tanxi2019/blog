@@ -43,6 +43,7 @@ module.exports = {
     nav: [
       { text: '首页',link: '/',icon:'reco-home'},
       { text: '时光轴', link: '/timeLine/', icon: 'reco-date' },
+	  { text: '关于我', link: '/about/', icon: 'reco-account' }
     ],
     sidebar: {
       '/css/': [cssSidebar],
