@@ -9,6 +9,7 @@ module.exports = {
   author: 'TanXi',
   description: 'Welcome to my world, you won\'t be dissapointed ! ! !',
   base: '/',
+  host: '127.0.0.1',
   port: 8080,
   markdown: {
     lineNumbers: false
@@ -61,5 +62,12 @@ module.exports = {
       }
     }
   },
-   plugins: ['@vuepress/medium-zoom', 'flowchart']
+   plugins: [
+       '@vuepress/medium-zoom',
+       'flowchart',
+       '@vuepress/pwa',
+       ['@vuepress/search', { // 搜索
+           searchMaxSuggestions: 10
+       }]
+   ]
 };
