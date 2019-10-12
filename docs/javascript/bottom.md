@@ -3,9 +3,9 @@ sidebar: auto
 title: javascript下
 date: 2018/1/28
 tags: 
- - javascript上
+ - JavaScript
 categories:
-  - javascript下
+  - JavaScript
 ---
 # 你不知道的javascript下
 

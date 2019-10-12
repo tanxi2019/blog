@@ -1,9 +1,9 @@
 --- 
-title: 全职高手
+title: other
 date: 2019/10/12
 tags: 
- - 动漫吧
+ - other
 categories:
- - 动漫吧
+ - other
 ---
 # 全职高手
