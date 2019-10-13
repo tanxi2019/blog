@@ -29,7 +29,7 @@ module.exports = {
       // 博客设置
       blogConfig: {
           category: { location: 2, text: '分类' }, // 默认 “分类”
-          tag: { location: 3, text: '标签'  }    // 默认文案 “标签”
+          tag: { location: 3, text: '标签'  }    // 默认 “标签”
       },
       // algolia: {  // 搜索需要提交
       //     apiKey: '<API_KEY>',

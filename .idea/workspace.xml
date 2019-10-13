@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9507619b-affc-413b-bec3-99d24746b0b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/head.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/styles/index.styl" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/styles/index.styl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
     </list>
@@ -24,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            <state relative-caret-position="252">
+              <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -34,8 +36,8 @@
         <entry file="file://$PROJECT_DIR$/docs/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <first_editor relative-caret-position="270">
+                <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -45,8 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/styles/index.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="416">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -130,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1050" />
@@ -164,7 +166,14 @@
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -297,12 +306,12 @@
       <workItem from="1570843936349" duration="3497000" />
       <workItem from="1570860750450" duration="10701000" />
       <workItem from="1570894210886" duration="1693000" />
-      <workItem from="1570940630624" duration="5443000" />
+      <workItem from="1570940630624" duration="7159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142743000" />
+    <option name="totallyTimeSpent" value="144459000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -317,13 +326,13 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49326146" visible="true" weight="0.22523117" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49326146" visible="true" weight="0.22523117" />
       <window_info id="Structure" order="1" sideWeight="0.509915" side_tool="true" weight="0.22655217" />
       <window_info id="npm" order="2" sideWeight="0.5104408" side_tool="true" weight="0.22655217" />
       <window_info id="Favorites" order="3" sideWeight="0.50673854" side_tool="true" weight="0.22637518" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32749325" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4957687" visible="true" weight="0.38526914" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32719547" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4957687" weight="0.38526914" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39919356" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -368,9 +377,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/views/javascript/cr.md">
-      <provider editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/views/javascript/cookies.md" />
     <entry file="file://$PROJECT_DIR$/docs/views/javascript/wt.md" />
     <entry file="file://$PROJECT_DIR$/depoly.sh">
@@ -459,25 +465,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/public/head.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        <state relative-caret-position="252">
+          <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/styles/index.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="416">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <first_editor relative-caret-position="270">
+            <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>

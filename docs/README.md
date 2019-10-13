@@ -7,5 +7,5 @@ bgImageStyle: {
       text-align: center,
       overflow: hidden
 }
-faceImage: '/head.png'
+faceImage: '/head.jpg'
 ---
