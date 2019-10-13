@@ -20,6 +20,7 @@ module.exports = {
     lastUpdated: '最后更新时间',
     repo: 'https://github.com/tanxi2019/github.io',
     repoLabel: 'Github',
+    record: '鄂ICP备19035192号',
     valineConfig: {
         appId: 'YcVQf6558L0z2tdqsys7E75a-gzGzoHsz',// your appId
         appKey: 'y3DVEIJHNMaO1PTOF8DY2eJY', // your appKey

@@ -2,206 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9507619b-affc-413b-bec3-99d24746b0b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/utils/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/utils/nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/styles/index.styl" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/styles/index.styl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/anime/cr.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/anime/cr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/3d.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/3d.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/animation.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/animation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/background.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/background.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/border.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/border.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/filter.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/filter.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/flex.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/flex.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/forceword.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/forceword.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/layout.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/layout.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/list.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/list.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/practice.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/practice.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/shadow.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/shadow.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/shape.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/shape.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/word.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/word.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/diary/cr.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/diary/cr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/git/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/git/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/html/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/cr.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/html/cr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/flash.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/html/flash.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/html/word.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/html/word.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/books/fileUploadResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/books/fileUploadResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/JDExplame.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/JDExplame.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/JDResult1.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/JDResult1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/columnResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/columnResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/columnReverseResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/columnReverseResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/contentCenterResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/contentCenterResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/contentEndResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/contentEndResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/contentStartResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/contentStartResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/dicResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/dicResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/firstDicResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/firstDicResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/fiveDicResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/fiveDicResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/flexCenterResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/flexCenterResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/flexEndResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/flexEndResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/flexResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/flexResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/flexStartResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/flexStartResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/floatThreeResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/floatThreeResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/fourDicResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/fourDicResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/gridResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/gridResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/gridResult2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/gridResult2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/holyGralyResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/holyGralyResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/nineDicResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/nineDicResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/nowrapResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/nowrapResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/nowrapResult1.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/nowrapResult1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/padding+marginResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/padding+marginResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/position+marginResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/position+marginResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/position+transformResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/position+transformResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/qidianExplame.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/qidianExplame.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/qidianResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/qidianResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/qunarExample.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/qunarExample.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/qunarResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/qunarResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/rowResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/rowResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/rowReverseResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/rowReverseResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/secondDicResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/secondDicResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/sixDicResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/sixDicResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/spaceAroundResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/spaceAroundResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/spaceBetweenResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/spaceBetweenResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/steamFlexResult1.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/steamFlexResult1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/steamFlexResult2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/steamFlexResult2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/steamResult1.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/steamResult1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/steamResult2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/steamResult2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/stickyFooterResult1.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/stickyFooterResult1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/stickyFooterResult2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/stickyFooterResult2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/stickyFooterResult3.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/stickyFooterResult3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/threeDicResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/threeDicResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/wrapResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/wrapResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/flex/wrapReverseResult.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/flex/wrapReverseResult.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/interview/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/interview/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/interview/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/interview/10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/interview/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/interview/11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/interview/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/interview/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/interview/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/interview/13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/interview/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/interview/13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/interview/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/interview/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/interview/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/interview/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/interview/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/interview/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/interview/5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/interview/5.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/interview/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/interview/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/interview/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/interview/7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/interview/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/interview/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/interview/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/interview/9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/19.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/21.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/22.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/23.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/24.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/29.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/30.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/30.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/31.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/31.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/33.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/33.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/lifecycle.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/lifecycle.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/transition.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/transition.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vue/vuex.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/vue/vuex.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/vuepress/9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/19.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/21.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/22.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/23.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/24.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/25.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/25.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/251.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/251.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/26.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/26.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/261.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/261.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/27.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/27.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/28.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/28.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/281.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/281.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/29.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/30.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/30.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/31.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/31.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/33.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/33.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/webpack/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/images/webpack/9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/javascript/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/javascript/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/javascript/ajax.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/javascript/ajax.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/javascript/bottom.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/javascript/bottom.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/javascript/cookies.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/javascript/cookies.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/javascript/cr.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/javascript/cr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/javascript/flash.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/javascript/flash.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/javascript/sjms.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/javascript/sjms.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/javascript/sort.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/javascript/sort.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/javascript/tab.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/javascript/tab.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/javascript/top.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/javascript/top.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/javascript/word.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/javascript/word.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/javascript/wt.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/javascript/wt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/javascript/xy.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/javascript/xy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/jquery/cr.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/jquery/cr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/node/cr.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/node/cr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/other/cr.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/other/cr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/poetry/cr.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/poetry/cr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pugins/cr.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/pugins/cr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/view/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/view/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/vue/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/vue/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/vue/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/vue/2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/vue/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/vue/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/webpack/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/webpack/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/webpack/advanced.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/webpack/advanced.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/webpack/case.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/webpack/case.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/webpack/core.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/webpack/core.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/webpack/install.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/webpack/install.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/webpack/loader.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/webpack/loader.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/webpack/optimization.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/webpack/optimization.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/webpack/plugin.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/webpack/plugin.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/webpack/source.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/webpack/source.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/webpack/start.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/webpack/start.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/webpack/static.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/webpack/static.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -221,27 +24,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/.vuepress/utils/nav.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-66">
-              <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+            <state relative-caret-position="280">
+              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/views/images/webpack/6.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -249,6 +38,15 @@
                 <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/.vuepress/styles/index.styl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -325,14 +123,14 @@
         <option value="$PROJECT_DIR$/docs/poetry/cr.md" />
         <option value="$PROJECT_DIR$/docs/other/cr.md" />
         <option value="$PROJECT_DIR$/docs/diary/cr.md" />
+        <option value="$PROJECT_DIR$/docs/.vuepress/utils/nav.js" />
+        <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
         <option value="$PROJECT_DIR$/docs/.vuepress/styles/index.styl" />
         <option value="$PROJECT_DIR$/docs/README.md" />
-        <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
-        <option value="$PROJECT_DIR$/docs/.vuepress/utils/nav.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1050" />
@@ -359,22 +157,14 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="webpack" type="462c0819:PsiDirectoryNode" />
+              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -507,12 +297,12 @@
       <workItem from="1570843936349" duration="3497000" />
       <workItem from="1570860750450" duration="10701000" />
       <workItem from="1570894210886" duration="1693000" />
-      <workItem from="1570940630624" duration="1851000" />
+      <workItem from="1570940630624" duration="5443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139151000" />
+    <option name="totallyTimeSpent" value="142743000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -524,16 +314,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49326146" visible="true" weight="0.22523117" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49326146" visible="true" weight="0.22523117" />
       <window_info id="Structure" order="1" sideWeight="0.509915" side_tool="true" weight="0.22655217" />
       <window_info id="npm" order="2" sideWeight="0.5104408" side_tool="true" weight="0.22655217" />
       <window_info id="Favorites" order="3" sideWeight="0.50673854" side_tool="true" weight="0.22637518" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32749325" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4957687" visible="true" weight="0.38526914" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4957687" visible="true" weight="0.38526914" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39919356" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -634,23 +424,6 @@
     <entry file="file://$PROJECT_DIR$/docs/view/about/README.md" />
     <entry file="file://$PROJECT_DIR$/docs/view/javascript/sort.md" />
     <entry file="file://$PROJECT_DIR$/docs/about/README.md" />
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/styles/index.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/views/webpack/case.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -670,28 +443,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/views/images/vue/1.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/utils/nav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/views/images/webpack/2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/views/images/webpack/6.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/utils/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/styles/index.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
