@@ -3,18 +3,18 @@ const cssSidebar = {
   title: 'CSS奇技',
   collapsable: false,
   children: [
-    '/css/',
-    '/css/word.md',
-    '/css/border.md',
-    '/css/background.md',
-    '/css/shadow.md',
-    '/css/filter.md',
-    '/css/layout.md',
-    '/css/shape.md',
-    '/css/list.md',
-    '/css/practice.md',
-    '/css/3d.md',
-    '/css/animation.md'
+    '/views/css/',
+    '/views/css/word.md',
+    '/views/css/border.md',
+    '/views/css/background.md',
+    '/views/css/shadow.md',
+    '/views/css/filter.md',
+    '/views/css/layout.md',
+    '/views/css/shape.md',
+    '/views/css/list.md',
+    '/views/css/practice.md',
+    '/views/css/3d.md',
+    '/views/css/animation.md'
   ]
 };
 //javascript的目录结构
@@ -22,15 +22,15 @@ const jsSidebar = {
   title: 'javascript奇技',
   collapsable: false,
   children: [
-    '/javascript/',
-    '/javascript/word.md',
-    '/javascript/cr.md',
-    '/javascript/flash.md',
-    '/javascript/xy.md',
-    '/javascript/wt.md',
-    '/javascript/ajax.md',
-    '/javascript/cookies.md',
-    '/javascript/tab.md'
+    '/views/javascript/',
+    '/views/javascript/word.md',
+    '/views/javascript/cr.md',
+    '/views/javascript/flash.md',
+    '/views/javascript/xy.md',
+    '/views/javascript/wt.md',
+    '/views/javascript/ajax.md',
+    '/views/javascript/cookies.md',
+    '/views/javascript/tab.md'
   ]
 };
 
@@ -38,10 +38,10 @@ const htmlSidebar = {
   title: 'html奇技',
   collapsable: true,
   children: [
-    '/html/',
-    '/html/word.md',
-    '/html/cr.md',
-    '/html/flash.md'
+    '/views/html/',
+    '/views/html/word.md',
+    '/views/html/cr.md',
+    '/views/html/flash.md'
   ]
 };
 
@@ -50,17 +50,17 @@ const webpackSidebar = {
   title: 'Webpack',
   collapsable: false,
   children: [
-    '/webpack/',
-    '/webpack/source.md',
-    '/webpack/install.md',
-    '/webpack/start.md',
-    '/webpack/static.md',
-    '/webpack/core.md',
-    '/webpack/advanced.md',
-    '/webpack/case.md',
-    '/webpack/optimization.md',
-    '/webpack/loader.md',
-    '/webpack/plugin.md'
+    '/views/webpack/',
+    '/views/webpack/source.md',
+    '/views/webpack/install.md',
+    '/views/webpack/start.md',
+    '/views/webpack/static.md',
+    '/views/webpack/core.md',
+    '/views/webpack/advanced.md',
+    '/views/webpack/case.md',
+    '/views/webpack/optimization.md',
+    '/views/webpack/loader.md',
+    '/views/webpack/plugin.md'
   ]
 };
 

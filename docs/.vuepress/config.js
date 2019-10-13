@@ -47,10 +47,10 @@ module.exports = {
 	  { text: '关于我', link: '/about/', icon: 'reco-account' }
     ],
     sidebar: {
-      '/css/': [cssSidebar],
-      '/javascript/': [jsSidebar],
-      '/html/': [htmlSidebar],
-      '/webpack/': [webpackSidebar]
+      '/views/css/': [cssSidebar],
+      '/views/javascript/': [jsSidebar],
+      '/views/html/': [htmlSidebar],
+      '/views/webpack/': [webpackSidebar]
     }
   },
 

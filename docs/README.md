@@ -3,7 +3,7 @@ home: true
 lang: zh-CN
 bgImage: './bg.jpg'
 bgImageStyle: {
-      height: 450px,
+      height: 440px,
       text-align: center,
       overflow: hidden
 }
