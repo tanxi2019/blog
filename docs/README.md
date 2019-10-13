@@ -1,11 +1,11 @@
 ---
 home: true
 lang: zh-CN
-bgImage: './bg.jpg'
+bgImage: './bg2.jpg'
 bgImageStyle: {
       height: 500px,
       text-align: center,
       overflow: hidden
 }
-faceImage: '/head.jpg'
+faceImage: '/head2.jpg'
 ---
