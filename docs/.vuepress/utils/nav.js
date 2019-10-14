@@ -30,7 +30,8 @@ const jsSidebar = {
     '/views/javascript/wt.md',
     '/views/javascript/ajax.md',
     '/views/javascript/cookies.md',
-    '/views/javascript/tab.md'
+    '/views/javascript/tab.md',
+    '/views/javascript/bb.md'
   ]
 };
 

@@ -23,7 +23,7 @@ categories:
     let app = document.getElementById('app');
       app.addEventListener('click',but,false); // 添加冒泡事件
      function but(event) {
-        if (event.target && event.target.nodeName) {
+        if (event.target && event.target.nodeName==='LI') {
         let item = event.target;
         console.log('you clicked on item: ' + item.innerHTML)
         }
