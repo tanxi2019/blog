@@ -25,16 +25,19 @@ module.exports = {
         appId: 'YcVQf6558L0z2tdqsys7E75a-gzGzoHsz',// your appId
         appKey: 'y3DVEIJHNMaO1PTOF8DY2eJY', // your appKey
         visitor:true, //文章访问量
+        notify:true, // 邮箱提醒
+        verify: true, // 验证码
+        placeholder: 'ヾﾉ≧∀≦)o来啊，快活啊!'
       },
       // 博客设置
       blogConfig: {
           category: { location: 2, text: '分类' }, // 默认 “分类”
           tag: { location: 3, text: '标签'  }    // 默认 “标签”
       },
-      // algolia: {  // 搜索需要提交
-      //     apiKey: '<API_KEY>',
-      //     indexName: '<INDEX_NAME>'
-      // }
+      algolia: {  // 搜索需要提交
+          apiKey: '<API_KEY>',
+          indexName: '<INDEX_NAME>'
+      },
       docsDir: '/',
       serviceWorker: {
           updatePopup: {
