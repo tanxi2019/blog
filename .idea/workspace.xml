@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9507619b-affc-413b-bec3-99d24746b0b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/anime/cr.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/tool/cr.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/git/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/tool/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/node/cr.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/angluar/cr.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/views/other/cr.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/react/cr.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,18 +26,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="73" column="11" lean-forward="true" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
+            <state relative-caret-position="314">
+              <caret line="39" column="8" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="39" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/views/javascript/bb.md">
+        <entry file="file://$PROJECT_DIR$/docs/views/tool/cr.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="613">
-                <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+              <first_editor relative-caret-position="27">
+                <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -59,10 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/javascript/mb.md" />
-        <option value="$PROJECT_DIR$/docs/webpack/case.md" />
-        <option value="$PROJECT_DIR$/docs/.vuepress/styles/override.styl" />
-        <option value="$PROJECT_DIR$/docs/html/flash.md" />
         <option value="$PROJECT_DIR$/docs/html/word.md" />
         <option value="$PROJECT_DIR$/docs/javascript/ajax.md" />
         <option value="$PROJECT_DIR$/docs/javascript/cookies.md" />
@@ -110,6 +109,10 @@
         <option value="$PROJECT_DIR$/docs/views/javascript/sjms.md" />
         <option value="$PROJECT_DIR$/docs/views/javascript/wt.md" />
         <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/docs/views/react/cr.md" />
+        <option value="$PROJECT_DIR$/docs/views/tool/README.md" />
+        <option value="$PROJECT_DIR$/docs/views/angluar/cr.md" />
+        <option value="$PROJECT_DIR$/docs/views/tool/cr.md" />
       </list>
     </option>
   </component>
@@ -124,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,36 +139,11 @@
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,19 +164,19 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\blog\docs\views" />
-      <recent name="G:\blog\docs\.vuepress" />
-      <recent name="G:\blog\docs" />
-      <recent name="C:\Users\Administrator\Desktop\blog\docs\html" />
-      <recent name="C:\Users\Administrator\Desktop\blog\docs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\blog\docs\views\javascript" />
       <recent name="C:\Users\Administrator\Desktop\blog\docs\views" />
       <recent name="G:\blog\docs" />
       <recent name="G:\blog\docs\views" />
       <recent name="G:\blog\docs\javascript" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\blog\docs\views\tool" />
+      <recent name="C:\Users\Administrator\Desktop\blog\docs\views" />
+      <recent name="G:\blog\docs\.vuepress" />
+      <recent name="G:\blog\docs" />
+      <recent name="C:\Users\Administrator\Desktop\blog\docs\html" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -296,11 +273,12 @@
       <workItem from="1570940630624" duration="7695000" />
       <workItem from="1571015502368" duration="3338000" />
       <workItem from="1571024104292" duration="1708000" />
+      <workItem from="1571106826601" duration="3357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150041000" />
+    <option name="totallyTimeSpent" value="153398000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -313,6 +291,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49326146" visible="true" weight="0.22496474" />
       <window_info id="Structure" order="1" sideWeight="0.509915" side_tool="true" weight="0.22655217" />
@@ -365,7 +344,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/views/css/filter.md" />
     <entry file="file://$PROJECT_DIR$/docs/webpack/case.md" />
     <entry file="file://$PROJECT_DIR$/docs/webpack/core.md" />
     <entry file="file://$PROJECT_DIR$/docs/webpack/advanced.md" />
@@ -377,7 +355,6 @@
     <entry file="file://$PROJECT_DIR$/docs/webpack/static.md" />
     <entry file="file://$PROJECT_DIR$/docs/webpack/source.md" />
     <entry file="file://$PROJECT_DIR$/docs/views/view/README.md" />
-    <entry file="file://$PROJECT_DIR$/docs/views/git/README.md" />
     <entry file="file://$PROJECT_DIR$/docs/views/vue/README.md" />
     <entry file="file://$PROJECT_DIR$/docs/views/css/animation.md" />
     <entry file="file://$PROJECT_DIR$/docs/views/css/3d.md" />
@@ -397,9 +374,7 @@
     <entry file="file://$PROJECT_DIR$/docs/JavaScriptTop/top.md" />
     <entry file="file://$PROJECT_DIR$/docs/JavaScriptCenter/bottom.md" />
     <entry file="file://$PROJECT_DIR$/docs/views/vue/2.md" />
-    <entry file="file://$PROJECT_DIR$/docs/views/anime/cr.md" />
     <entry file="file://$PROJECT_DIR$/docs/views/diary/cr.md" />
-    <entry file="file://$PROJECT_DIR$/docs/views/other/cr.md" />
     <entry file="file://$PROJECT_DIR$/docs/views/poetry/cr.md" />
     <entry file="file://$PROJECT_DIR$/docs/views/javascript/top.md" />
     <entry file="file://$PROJECT_DIR$/docs/views/javascript/bottom.md" />
@@ -502,8 +477,56 @@
     <entry file="file://$PROJECT_DIR$/docs/views/javascript/bb.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="613">
+          <first_editor relative-caret-position="1485">
             <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/views/react/cr.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="243">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/views/tool/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/views/angluar/cr.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="189">
+            <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/views/tool/cr.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="27">
+            <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -513,8 +536,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="73" column="11" lean-forward="true" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
+        <state relative-caret-position="314">
+          <caret line="39" column="8" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="39" selection-end-column="8" />
         </state>
       </provider>
     </entry>

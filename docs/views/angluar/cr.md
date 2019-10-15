@@ -1,11 +1,11 @@
 --- 
-title: node
+title: angluar
 date: 2019/10/10
 tags: 
- - node
+ - angluar
 categories:
- - node
+ - angluar
 ---
-# node
+# angluar
 
 

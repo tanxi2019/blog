@@ -5,7 +5,7 @@ date: 2018/12/28
 tags: 
  - Git
 categories:
-  - Git
+  - tool
 ---
 # Git常见命令
 

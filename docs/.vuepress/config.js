@@ -34,10 +34,10 @@ module.exports = {
           category: { location: 2, text: '分类' }, // 默认 “分类”
           tag: { location: 3, text: '标签'  }    // 默认 “标签”
       },
-      algolia: {  // 搜索需要提交
-          apiKey: '<API_KEY>',
-          indexName: '<INDEX_NAME>'
-      },
+      // algolia: {  // 搜索需要提交
+      //     apiKey: '<API_KEY>',
+      //     indexName: '<INDEX_NAME>'
+      // },
       docsDir: '/',
       serviceWorker: {
           updatePopup: {
