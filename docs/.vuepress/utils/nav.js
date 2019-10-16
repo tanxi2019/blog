@@ -1,7 +1,7 @@
 // CSS的目录结构
 const cssSidebar = {
   title: 'CSS奇技',
-  collapsable: false,
+  collapsable: true,
   children: [
     '/views/css/',
     '/views/css/word.md',
@@ -20,11 +20,11 @@ const cssSidebar = {
 //javascript的目录结构
 const jsSidebar = {
   title: 'javascript奇技',
-  collapsable: false,
+  collapsable: true,
   children: [
     '/views/javascript/',
     '/views/javascript/word.md',
-    '/views/javascript/cr.md',
+    '/views/javascript/webstorm.md',
     '/views/javascript/flash.md',
     '/views/javascript/xy.md',
     '/views/javascript/wt.md',
@@ -41,7 +41,7 @@ const htmlSidebar = {
   children: [
     '/views/html/',
     '/views/html/word.md',
-    '/views/html/cr.md',
+    '/views/html/webstorm.md',
     '/views/html/flash.md'
   ]
 };
@@ -49,7 +49,7 @@ const htmlSidebar = {
 // webpack目录结构
 const webpackSidebar = {
   title: 'Webpack',
-  collapsable: false,
+  collapsable: true,
   children: [
     '/views/webpack/',
     '/views/webpack/source.md',
