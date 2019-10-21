@@ -24,7 +24,7 @@ axios全局配置,找到入口文件main.js,添加如下配置。
 :::
 
 ```js
-import axios from 'docs/views/pugins/axios'
+import axios from 'axios'
 
 Vue.prototype.$axios = axios;
 
