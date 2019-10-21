@@ -11,7 +11,7 @@ categories:
 1.去git上克隆[react-devtools](https://github.com/facebook/react-devtools/tree/v3)文件到本地
 
 ```sh
-git clone https://github.com/facebook/react-devtools/tree/v3
+git clone https://github.com/facebook/react-devtools
 
 ```
 2.安装npm依赖,cnpm淘宝镜像
