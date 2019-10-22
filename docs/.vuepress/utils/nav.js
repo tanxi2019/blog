@@ -24,14 +24,15 @@ const jsSidebar = {
   children: [
     '/views/javascript/',
     '/views/javascript/word.md',
-    '/views/javascript/webstorm.md',
     '/views/javascript/flash.md',
     '/views/javascript/xy.md',
     '/views/javascript/wt.md',
     '/views/javascript/ajax.md',
     '/views/javascript/cookies.md',
     '/views/javascript/tab.md',
-    '/views/javascript/bb.md'
+    '/views/javascript/bb.md',
+    '/views/javascript/sjms.md',
+    '/views/javascript/top.md'
   ]
 };
 
@@ -41,7 +42,7 @@ const htmlSidebar = {
   children: [
     '/views/html/',
     '/views/html/word.md',
-    '/views/html/webstorm.md',
+    '/views/html/cr.md',
     '/views/html/flash.md'
   ]
 };
