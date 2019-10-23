@@ -20,13 +20,13 @@
     }
 </script>
 <style>
-    .el-carousel__container {
-        position: relative;
-        height: 700px;
-    }
-    .content__default:not(.custom) {
-         max-width: 100% !important;
-         margin: 0 auto;
-         padding: 0 !important;
-    }
+    /*.el-carousel__container {*/
+    /*    position: relative;*/
+    /*    height: 700px;*/
+    /*}*/
+    /*.content__default:not(.custom) {*/
+    /*     max-width: 100% !important;*/
+    /*     margin: 0 auto;*/
+    /*     padding: 0 !important;*/
+    /*}*/
 </style>
