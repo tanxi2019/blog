@@ -1,6 +1,7 @@
 ---
 home: true
 lang: zh-CN
+swiper:
 bgImage: './bg2.jpg'
 bgImageStyle: {
       height: 500px,
@@ -9,3 +10,4 @@ bgImageStyle: {
 }
 faceImage: '/head2.jpg'
 ---
+<swiper/>
