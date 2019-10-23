@@ -12,7 +12,7 @@ module.exports = {
   host: '127.0.0.1',
   port: 8080,
   markdown: {
-    lineNumbers: false
+    lineNumbers: true
   },
   themeConfig: {
     huawei: true,
@@ -70,6 +70,9 @@ module.exports = {
        '@vuepress/medium-zoom',
        'flowchart',
        '@vuepress/pwa',
+      [ "vuepress-plugin-cat",{
+          theme:'shizuku'
+      }],
        ['@vuepress/search', { // 搜索
            searchMaxSuggestions: 10
        }]
