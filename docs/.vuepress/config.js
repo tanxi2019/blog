@@ -12,7 +12,7 @@ module.exports = {
   host: '127.0.0.1',
   port: 8080,
   markdown: {
-    lineNumbers: true
+    lineNumbers: false
   },
   themeConfig: {
     huawei: true,
@@ -68,12 +68,7 @@ module.exports = {
   },
    plugins: [
        'flowchart',
-      [ '@vuepress/medium-zoom',{
-          selector: '',
-          options: {
-              margin: 16
-          }
-      }],
+       '@vuepress/medium-zoom',
       [ '@vuepress/pwa',{
           serviceWorker: true,
           updatePopup: true
