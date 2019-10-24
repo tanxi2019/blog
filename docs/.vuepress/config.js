@@ -67,10 +67,18 @@ module.exports = {
     }
   },
    plugins: [
-       '@vuepress/medium-zoom',
        'flowchart',
-       '@vuepress/pwa',
-      [ "vuepress-plugin-cat",{
+      [ '@vuepress/medium-zoom',{
+          selector: '',
+          options: {
+              margin: 16
+          }
+      }],
+      [ '@vuepress/pwa',{
+          serviceWorker: true,
+          updatePopup: true
+      }],
+      [ '@vuepress-reco/kan-ban-niang',{
           theme:'shizuku'
       }],
        ['@vuepress/search', { // 搜索
