@@ -15,7 +15,13 @@
     "vue-router": "^3.0.7",
     "vuepress": "^1.0.3",
     "vuepress-plugin-cat": "^1.0.3",
+    "vuepress-plugin-ribbon": "^0.0.6",
     "vuepress-plugin-flowchart": "^1.4.3",
     "vuepress-theme-reco": "^1.1.0"
+  },
+  "devDependencies": {
+    "vuepress-plugin-cursor-effects": "^0.0.2",
+    "vuepress-plugin-go-top": "^0.0.1",
+    "vuepress-plugin-live2d": "^0.0.6"
   }
 }
