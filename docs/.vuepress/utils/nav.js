@@ -6,15 +6,16 @@ const cssSidebar = {
     '/views/css/',
     '/views/css/word.md',
     '/views/css/border.md',
+    '/views/css/border-radius.md',
     '/views/css/background.md',
     '/views/css/shadow.md',
     '/views/css/filter.md',
     '/views/css/layout.md',
     '/views/css/shape.md',
     '/views/css/list.md',
-    '/views/css/practice.md',
     '/views/css/3d.md',
-    '/views/css/animation.md'
+    '/views/css/animation.md',
+    '/views/css/practice.md'
   ]
 };
 //javascript的目录结构

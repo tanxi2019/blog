@@ -67,5 +67,5 @@ export default {
     box-shadow: 10px 10px 5px #888888;
 }
 ```
-:point_down:下面是多重边框的实时效果：
+:point_down:下面是实时效果：
 <vue1/>
