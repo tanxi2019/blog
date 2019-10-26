@@ -1,12 +1,12 @@
 --- 
-title: FlexBox布局
+title: 布局
 date: 2018/10/10
 tags: 
  - css
 categories:
   - css
 ---
-# FlexBox布局
+# 布局
 
 ## FlexBobx语法
 ::: tip
