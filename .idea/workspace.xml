@@ -250,19 +250,19 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\blog\docs\views\css" />
+      <recent name="G:\blog\docs\.vuepress\components" />
+      <recent name="G:\blog\docs\.vuepress\public\css" />
+      <recent name="G:\blog\docs\.vuepress\components\css\bgcolor" />
+      <recent name="G:\blog\docs\views\images\swiper" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\blog\docs\views\pugins" />
       <recent name="G:\blog\docs\views\tool" />
       <recent name="C:\Users\Administrator\Desktop\blog\docs\views" />
       <recent name="G:\blog\docs\.vuepress" />
       <recent name="G:\blog\docs" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\blog\docs\.vuepress\public\css" />
-      <recent name="G:\blog\docs\.vuepress\components\css\bgcolor" />
-      <recent name="G:\blog\docs\views\images\swiper" />
-      <recent name="G:\blog\docs\views\javascript" />
-      <recent name="C:\Users\Administrator\Desktop\blog\docs\views" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -371,12 +371,12 @@
       <workItem from="1571964210239" duration="3699000" />
       <workItem from="1571974175101" duration="1502000" />
       <workItem from="1572050227412" duration="21049000" />
-      <workItem from="1572222853208" duration="554000" />
+      <workItem from="1572222853208" duration="1131000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="224934000" />
+    <option name="totallyTimeSpent" value="225511000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,7 +396,7 @@
       <window_info id="Favorites" order="3" sideWeight="0.50673854" side_tool="true" weight="0.22637518" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32614556" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49506348" visible="true" weight="0.2574124" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49506348" weight="0.2574124" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39919356" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
