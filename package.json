@@ -14,7 +14,7 @@
     "element-ui": "^2.10.0",
     "vue-router": "^3.0.7",
     "vuepress": "^1.0.3",
-    "vuepress-plugin-cat": "^1.0.3",
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.3",
     "vuepress-plugin-ribbon": "^0.0.6",
     "vuepress-plugin-flowchart": "^1.4.3",
     "vuepress-theme-reco": "^1.1.0"
