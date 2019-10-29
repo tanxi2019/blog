@@ -1,12 +1,16 @@
 <template>
-<div class="shade">
+<div class="shade4">
+    <h3>3 个颜色结点（均匀分布）</h3>
+    <div class="grad1"></div>
 
-    <h3>线性渐变 - 使用不同的角度</h3>
-    <div class="grad1" style="text-align:center;">0deg</div><br>
-    <div class="grad2" style="text-align:center;">90deg</div><br>
-    <div class="grad3" style="text-align:center;">180deg</div><br>
-    <div class="grad4" style="text-align:center;">-90deg</div>
-    <p><strong>注意：</strong> Internet Explorer 9 及之前的版本不支持渐变。</p>
+    <h3>7 个颜色结点（均匀分布）</h3>
+    <div class="grad2"></div>
+
+    <h3>3 个颜色结点（不均匀分布）</h3>
+    <div class="grad3"></div>
+
+    <p><strong>注意：</strong> 当指定百分比时，颜色是不均匀分布。</p>
+    <p><strong>注意：</strong> Internet Explorer 8 及之前的版本不支持渐变。</p>
     ​
 </div>
 </template>
@@ -19,23 +23,18 @@
 
 <style scoped>
     .grad1 {
-        height: 100px;
+        height: 200px;
         background-color: red; /* 浏览器不支持的时候显示 */
-        background-image: linear-gradient(0deg, red, yellow);
+        background-image: linear-gradient(red, green, blue); /* 标准的语法（必须放在最后） */
     }
     .grad2 {
-        height: 100px;
+        height: 200px;
         background-color: red; /* 浏览器不支持的时候显示 */
-        background-image: linear-gradient(90deg, red, yellow);
+        background-image: linear-gradient(red, orange, yellow, green, blue, indigo, violet); /* 标准的语法（必须放在最后） */
     }
     .grad3 {
-        height: 100px;
+        height: 200px;
         background-color: red; /* 浏览器不支持的时候显示 */
-        background-image: linear-gradient(180deg, red, yellow);
-    }
-    .grad4 {
-        height: 100px;
-        background-color: red; /* 浏览器不支持的时候显示 */
-        background-image: linear-gradient(-90deg, red, yellow);
+        background-image: linear-gradient(red 10%, green 85%, blue 90%); /* 标准的语法（必须放在最后） */
     }
 </style>
