@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9507619b-affc-413b-bec3-99d24746b0b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/css/webActive/Active1.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/components/css/webActive/Active2.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/styles/index.styl" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/styles/index.styl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/views/css/practice.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/css/practice.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
@@ -35,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/docs/views/css/practice.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="179">
-                <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <first_editor relative-caret-position="287">
+                <caret line="13" selection-start-line="13" selection-end-line="13" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -45,11 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/css/webActive/Active1.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="135">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/css/webActive/Active2.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -89,7 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/JavaScriptCenter/README.md" />
         <option value="$PROJECT_DIR$/docs/JavaScriptTop/README.md" />
         <option value="$PROJECT_DIR$/docs/designPattern/README.md" />
         <option value="$PROJECT_DIR$/docs/anime/cr.md" />
@@ -137,13 +144,14 @@
         <option value="$PROJECT_DIR$/docs/.vuepress/components/shade/shade9.vue" />
         <option value="$PROJECT_DIR$/docs/.vuepress/components/shade/shade10.vue" />
         <option value="$PROJECT_DIR$/docs/views/css/shade.md" />
-        <option value="$PROJECT_DIR$/docs/views/css/practice.md" />
         <option value="$PROJECT_DIR$/docs/.vuepress/styles/index.styl" />
         <option value="$PROJECT_DIR$/docs/.vuepress/components/css/webActive/Active1.vue" />
+        <option value="$PROJECT_DIR$/docs/views/css/practice.md" />
+        <option value="$PROJECT_DIR$/docs/.vuepress/components/css/webActive/Active2.vue" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1050" />
@@ -193,6 +201,15 @@
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="webActive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
               <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -212,7 +229,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/.vuepress/components/shade" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/.vuepress/components/css/webActive" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -225,19 +242,19 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\blog\docs\.vuepress\components\css\webActive" />
+      <recent name="C:\Users\Administrator\Desktop\blog\docs\.vuepress\components\shade" />
+      <recent name="G:\blog\docs\views\css" />
+      <recent name="G:\blog\docs\.vuepress\components" />
+      <recent name="G:\blog\docs\.vuepress\public\css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\blog\docs\views\pugins" />
       <recent name="G:\blog\docs\views\tool" />
       <recent name="C:\Users\Administrator\Desktop\blog\docs\views" />
       <recent name="G:\blog\docs\.vuepress" />
       <recent name="G:\blog\docs" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\blog\docs\.vuepress\components\shade" />
-      <recent name="G:\blog\docs\views\css" />
-      <recent name="G:\blog\docs\.vuepress\components" />
-      <recent name="G:\blog\docs\.vuepress\public\css" />
-      <recent name="G:\blog\docs\.vuepress\components\css\bgcolor" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -352,12 +369,12 @@
       <workItem from="1572253610251" duration="17000" />
       <workItem from="1572253640382" duration="353000" />
       <workItem from="1572310122843" duration="4827000" />
-      <workItem from="1573201650425" duration="1518000" />
+      <workItem from="1573201650425" duration="3191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="233358000" />
+    <option name="totallyTimeSpent" value="235031000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -403,7 +420,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/index.html" />
     <entry file="file://$PROJECT_DIR$/docs/views/vue/xm.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -855,18 +871,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/views/css/practice.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="179">
-            <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/styles/index.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1350">
@@ -876,8 +880,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/css/webActive/Active1.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/views/css/practice.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="287">
+            <caret line="13" selection-start-line="13" selection-end-line="13" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/css/webActive/Active2.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
