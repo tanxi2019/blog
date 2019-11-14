@@ -15,7 +15,7 @@
 </script>
 
 <style scoped>
-.active .box{height: 265px;width: 400px; overflow: hidden; margin: 0 auto;}
+.active .box{height: 200px;width: 300px; overflow: hidden; margin: 0 auto;}
 .active img{width: 100%;-webkit-transition: all 5s ease;transition: all 5s ease;-webkit-transform: scaleX(1) scaleY(1);transform: scaleX(1) scaleY(1);}
 .active img:hover{-webkit-transform: scaleX(1.1) scaleY(1.1);transform: scaleX(1.1) scaleY(1.1);-webkit-filter: brightness(.5);filter: brightness(.5);-webkit-transition: all 2s ease 0s;transition: all 2s ease 0s;}
 </style>
