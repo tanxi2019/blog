@@ -17,6 +17,6 @@ git add -A
 git commit -m 'deploy'
 
 # 如果你想要部署到 https://<USERNAME>.github.io
-git push -f https://github.com/tanxi2019/github.io.git master
+git push -f https://github.com/tanxi2019/vuepress.git master
 
 cd -
