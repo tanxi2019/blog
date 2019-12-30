@@ -1,11 +1,11 @@
 --- 
 sidebar: auto
-title: 面试题
+title: view
 date: 2018/5/23
 tags: 
- - 面试题
+ - view
 categories:
-  - 面试题
+  - view
 ---
 
 # 前端面试之道
