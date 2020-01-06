@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="tabs">
     <p>TAB切换方法1</p>
     <div class="tab">
       <div class="tab-title">
@@ -66,7 +66,7 @@ export default{
 </script>
 
 <style type="text/css">
-  p, ul, ol{padding: 0 !important; margin: 0 !important;}
+ /*.tabs p{padding: 0 !important; margin: 0 !important;}*/
   .tab{
     width: 328px;
     height: 400px;
@@ -74,7 +74,7 @@ export default{
     border: 1px solid #ccc;
     margin-bottom: 50px;
   }
-  p{
+ .tabs p{
     width: 328px;
     height: 30px;
     line-height: 30px;
@@ -89,6 +89,7 @@ export default{
     padding: 0;
     margin: 0;
   }
+ .tab-title ul{margin: 0;padding: 0;}
   .tab-title ul li{
     float: left;
     padding: 10px 14px !important;
