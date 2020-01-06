@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9507619b-affc-413b-bec3-99d24746b0b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/components/vue/Tab.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/components/vue/Tab.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/styles/index.styl" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/styles/index.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,29 +19,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
+            <state relative-caret-position="72">
               <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/vue/Tab.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="91" column="36" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/_@vuepress-reco_vuepress-plugin-comments@1.0.13@@vuepress-reco/vuepress-plugin-comments/bin/Valine.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="78" column="33" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/about/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="162">
+                <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="45" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -65,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/views/vue/1.md" />
         <option value="$PROJECT_DIR$/docs/views/vue/xm.md" />
         <option value="$PROJECT_DIR$/docs/views/react/cr.md" />
         <option value="$PROJECT_DIR$/docs/.vuepress/dist/index.html" />
@@ -116,13 +109,14 @@
         <option value="$PROJECT_DIR$/docs/.vuepress/components/vue/Tab.vue" />
         <option value="$PROJECT_DIR$/node_modules/_@vuepress-reco_vuepress-plugin-comments@1.0.13@@vuepress-reco/vuepress-plugin-comments/bin/Valine.vue" />
         <option value="$PROJECT_DIR$/docs/.vuepress/styles/index.styl" />
+        <option value="$PROJECT_DIR$/docs/about/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="980" />
-    <option name="height" value="1050" />
+    <option name="height" value="920" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -130,6 +124,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,20 +141,12 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,11 +318,12 @@
       <workItem from="1576987685546" duration="598000" />
       <workItem from="1577705260655" duration="637000" />
       <workItem from="1577766284105" duration="2958000" />
+      <workItem from="1578285207647" duration="1131000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="266071000" />
+    <option name="totallyTimeSpent" value="267202000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,7 +338,7 @@
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49326146" visible="true" weight="0.35049364" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49326146" visible="true" weight="0.16643159" />
       <window_info id="Structure" order="1" sideWeight="0.509915" side_tool="true" weight="0.22655217" />
       <window_info id="npm" order="2" sideWeight="0.5104408" side_tool="true" weight="0.22655217" />
       <window_info id="Favorites" order="3" sideWeight="0.50673854" side_tool="true" weight="0.22637518" />
@@ -382,7 +370,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/docs/README.md" />
-    <entry file="file://$PROJECT_DIR$/docs/about/README.md" />
     <entry file="file://$PROJECT_DIR$/docs/timeLine/README.md" />
     <entry file="file://$PROJECT_DIR$/docs/views/css/README.md" />
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/vue/swiper.vue">
@@ -440,13 +427,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/views/css/border-radius.md" />
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="81" column="36" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/views/css/border.md" />
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/shade/shade1.vue">
       <provider selected="true" editor-type-id="text-editor" />
@@ -571,20 +551,6 @@
     <entry file="file://$PROJECT_DIR$/docs/views/vue/xm.md" />
     <entry file="file://$PROJECT_DIR$/docs/views/jquery/cr.md" />
     <entry file="file://$PROJECT_DIR$/docs/views/Linux/linux.md" />
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/vue/Tab.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="91" column="36" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/_@vuepress-reco_vuepress-plugin-comments@1.0.13@@vuepress-reco/vuepress-plugin-comments/bin/Valine.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="78" column="33" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/styles/index.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -612,10 +578,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/components/vue/Tab.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2457">
+          <caret line="91" column="36" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/_@vuepress-reco_vuepress-plugin-comments@1.0.13@@vuepress-reco/vuepress-plugin-comments/bin/Valine.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="78" column="33" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="81" column="36" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
+        <state relative-caret-position="72">
           <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/about/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="45" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
