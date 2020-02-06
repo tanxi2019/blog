@@ -1,26 +1,48 @@
 const nav = require('./utils/nav.js');
 const {cssSidebar, webpackSidebar, jsSidebar,htmlSidebar} = nav;
 module.exports = {
-    head: [  ['link', { rel: 'icon', href: 'icon.png' }],
-        ['meta', {name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no'}]
+    head: [ ['link', { rel: 'icon', href: 'icon.png' }],
+            ['meta', {name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no'}],
+            ['script', { src: 'https://cdn.jsdelivr.net/npm/react/umd/react.production.min.js' }],
+            ['script', { src: 'https://cdn.jsdelivr.net/npm/react-dom/umd/react-dom.production.min.js' }],
+            ['script', { src: 'https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js' }],
+            ['script', { src: 'https://cdn.jsdelivr.net/npm/@babel/standalone/babel.min.js' }],
+            ['script', { src: 'https://cdn.jsdelivr.net/npm/numerify/lib/index.umd.min.js' }],
+            ['script', { src: 'https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js' }]
     ],
     theme: 'reco',
     title: '云深不知处',
     author: 'TanXi',
     description: 'Welcome to my world, you won\'t be dissapointed ! ! !',
-    base: '/',
+    base: '/', //部署到gitee和github需要加仓库名，加域名改为 /
     host: '127.0.0.1',
     port: 8080,
     markdown: {
-        lineNumbers: false
+        lineNumbers: true
     },
     themeConfig: {
         huawei: true,
         type: 'blog',
+        authorAvatar: '/head.jpg', // 头像
         lastUpdated: '最后更新时间',
-        repo: 'https://github.com/tanxi2019/github.io',
+        repo: 'https://github.com/tanxi2019/vuepress',
         repoLabel: 'Github',
         record: '鄂ICP备19035192号',
+        friendLink: [ // 友情链接
+            {
+              title: 'vuepress-theme-reco',
+              desc: 'A simple and beautiful vuepress Blog & Doc theme.',
+              avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+              link: 'https://vuepress-theme-reco.recoluan.com'
+            },
+            {
+              title: '午后南杂',
+              desc: 'Enjoy when you can, and endure when you must.',
+              email: 'recoluan@qq.com',
+              link: 'https://www.recoluan.com'
+            },
+            // ...
+          ],
         valineConfig: {
             appId: 'YcVQf6558L0z2tdqsys7E75a-gzGzoHsz',// your appId
             appKey: 'y3DVEIJHNMaO1PTOF8DY2eJY', // your appKey
@@ -48,7 +70,7 @@ module.exports = {
         nav: [
             { text: '首页',link: '/',icon:'reco-home'},
             { text: '时光轴', link: '/timeLine/', icon: 'reco-date' },
-            { text: '关于我', link: '/about/', icon: 'reco-account' }
+            { text: '关于我的', link: '/about/', icon: 'reco-account' }
         ],
         sidebar: {
             '/views/css/': [cssSidebar],
@@ -69,7 +91,9 @@ module.exports = {
     plugins: [ // 插件
         'flowchart',
         'cursor-effects',
+        '@vuepress-reco/extract-code',
         '@vuepress/medium-zoom',
+        'demo-block',
         [ '@vuepress/pwa',{
             serviceWorker: true,
             updatePopup: true
