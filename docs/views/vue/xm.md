@@ -1,6 +1,6 @@
 --- 
 title: Vue脚手架安装及使用
-date: 2019/10/12
+date: 2019-10-12
 tags: 
  - Vue
 categories:

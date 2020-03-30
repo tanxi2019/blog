@@ -1,6 +1,6 @@
 --- 
 title: 轮播图
-date: 2019/10/10
+date: 2019-10-10
 tags: 
  - html
 categories:

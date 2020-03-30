@@ -1,7 +1,7 @@
 --- 
 sidebar: auto
 title: JavaScript设计模式
-date: 2018/11/28
+date: 2018-12-28
 tags: 
  - JavaScript
 categories:

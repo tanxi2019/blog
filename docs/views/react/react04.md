@@ -1,6 +1,6 @@
 --- 
 title: react组件抽离[无状态组件]
-date: 2020/2/10
+date: 2020-02-10
 tags: 
  - react
 categories:

@@ -1,6 +1,6 @@
 --- 
 title: class 关键字创建react组件【有状态组件】
-date: 2020/2/16
+date: 2020-02-16
 tags: 
  - react
 categories:

@@ -1,6 +1,6 @@
 --- 
 title: jquery
-date: 2019/1/15
+date: 2019-01-15
 tags: 
  - jquery
 

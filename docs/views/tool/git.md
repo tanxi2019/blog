@@ -1,7 +1,7 @@
 --- 
 sidebar: auto
 title: Git
-date: 2018/12/28
+date: 2018-12-28
 tags: 
  - Git
 categories:

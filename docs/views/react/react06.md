@@ -1,6 +1,6 @@
 --- 
 title: class与传统面向对象的对比
-date: 2020/2/10
+date: 2020-02-10
 tags: 
  - react
 categories:

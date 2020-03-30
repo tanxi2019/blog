@@ -1,6 +1,6 @@
 --- 
 title:  axios
-date: 2019/10/12
+date: 2019-10-12
 tags: 
  - tool
 categories:

@@ -1,6 +1,6 @@
 --- 
 title: vuex
-date: 2020/2/6
+date: 2020-2-6
 tags: 
  - Vue
 categories:

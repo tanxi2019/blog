@@ -1,7 +1,7 @@
 --- 
 sidebar: auto
 title: Vue基础
-date: 2019/5/2
+date: 2019-05-02
 tags: 
  - Vue
 categories:

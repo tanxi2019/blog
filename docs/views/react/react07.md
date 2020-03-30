@@ -1,6 +1,6 @@
 --- 
 title: class继承
-date: 2020/2/10
+date: 2020-02-10
 tags: 
  - react
 categories:

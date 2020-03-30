@@ -1,6 +1,6 @@
 --- 
 title: 渐变
-date: 2019/10/26
+date: 2019-10-26
 tags: 
  - css
 categories:

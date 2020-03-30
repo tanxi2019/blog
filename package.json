@@ -1,29 +1,26 @@
 {
-  "repository": "https://github.com/tanxi2019/github.io",
-  "author": "tanxi<1832355298@qq.com>",
+  "name": "vuepress",
+  "version": "1.0.0",
+  "author": "reco_luan",
   "scripts": {
     "dev": "vuepress dev docs",
-    "start": "npm run dev",
-    "build": "vuepress build docs",
-    "deploy": "bash deploy.sh"
+    "build": "vuepress build docs"
   },
-  "dependencies": {
+  "devDependencies": {
+    "vuepress": "1.3.1",
+    "vuepress-theme-reco": "1.3.2",
     "@vuepress/plugin-medium-zoom": "^1.0.0-rc.1",
     "@vuepress/plugin-pwa": "^1.0.0-rc.1",
     "@vuepress/plugin-search": "^1.0.0-rc.1",
     "element-ui": "^2.10.0",
     "vue-router": "^3.0.7",
-    "vuepress": "^1.0.3",
     "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.3",
     "vuepress-plugin-ribbon": "^0.0.6",
     "vuepress-plugin-flowchart": "^1.4.3",
-    "vuepress-theme-reco": "^1.2.2"
-  },
-  "devDependencies": {
     "@babel/runtime": "^7.0.0-beta.46",
     "vuepress-plugin-cursor-effects": "^0.0.2",
     "vuepress-plugin-demo-block": "^0.7.2",
     "vuepress-plugin-go-top": "^0.0.1",
     "vuepress-plugin-live2d": "^0.0.6"
-  }
+    } 
 }

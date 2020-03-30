@@ -1,6 +1,6 @@
 --- 
 title: class继承公共方法
-date: 2020/2/15
+date: 2020-02-15
 tags: 
  - react
 categories:

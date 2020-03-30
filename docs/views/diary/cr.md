@@ -1,6 +1,6 @@
 --- 
 title: 创建博客的第一天
-date: 2019/10/12
+date: 2019-10-12
 tags: 
  - diary
 categories:

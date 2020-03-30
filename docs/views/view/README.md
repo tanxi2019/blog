@@ -1,7 +1,7 @@
 --- 
 sidebar: auto
 title: view
-date: 2018/5/23
+date: 2019-10-12
 tags: 
  - view
 categories:

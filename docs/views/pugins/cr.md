@@ -1,6 +1,6 @@
 --- 
 title: 插件
-date: 2019/10/10
+date: 2019-10-10
 tags: 
  - pugins
 categories:

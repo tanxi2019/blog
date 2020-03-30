@@ -1,6 +1,6 @@
 --- 
 title: 缓存
-date: 2018/12/28
+date: 2018-12-28
 tags: 
  - JavaScript
 categories:

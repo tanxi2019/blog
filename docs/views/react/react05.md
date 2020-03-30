@@ -1,6 +1,6 @@
 --- 
 title: class的简单应用
-date: 2020/2/10
+date: 2020-02-10
 tags: 
  - react
 categories:

@@ -1,6 +1,6 @@
 --- 
 title: 打包静态资源
-date: 2019/3/21
+date: 2019-03-21
 tags: 
  - webpack
 categories:
