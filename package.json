@@ -17,9 +17,10 @@
     "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.3",
     "vuepress-plugin-ribbon": "^0.0.6",
     "vuepress-plugin-flowchart": "^1.4.3",
-    "vuepress-theme-reco": "^1.2.0"
+    "vuepress-theme-reco": "^1.2.2"
   },
   "devDependencies": {
+    "@babel/runtime": "^7.0.0-beta.46",
     "vuepress-plugin-cursor-effects": "^0.0.2",
     "vuepress-plugin-demo-block": "^0.7.2",
     "vuepress-plugin-go-top": "^0.0.1",

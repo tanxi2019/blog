@@ -38,6 +38,17 @@ npm start
 ```sh
 npm run build
 ```
+4.暴露配置文件
+
+```sh
+npm run eject
+```
+5. 暴露配置文件配置@路径，找到webpack.config.js里的 alias: {}，加入以下配置
+```webpack.config.js
+// @路劲配置
+'@':path.join(__dirname,'../src'),
+```
+
 ::: tip 
 如果下载速度太慢，可以把脚手架的基础摸版上传github，这是我的[react-app](https://github.com/tanxi2019/react)模板
 :::

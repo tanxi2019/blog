@@ -1,6 +1,6 @@
 --- 
-title: 切换效果
-date: 2020-2-1
+title: 切换效果二
+date: 2020/2/1
 tags: 
  - JavaScript
 categories:
